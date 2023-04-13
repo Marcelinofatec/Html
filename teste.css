@@ -1,0 +1,25 @@
+.teste {
+    color: aqua;
+    background-color: rgb(255, 228, 187);
+    width: 30%;
+    height: 50px;
+    border-radius: 20px;
+    border-color: rgb(0, 0, 0);
+}
+
+.teste2 {
+    color: rgb(25, 0, 255);
+    background-color: rgb(230, 59, 59);
+    width: 30%;
+    height: 50px;
+    border-radius: 20px;
+    border-color: rgb(0, 0, 0);
+}
+input {
+    color: rgb(25, 0, 255);
+    background-color: rgb(0, 0, 0);
+    width: 30%;
+    height: 50px;
+    border-radius: 20px;
+    border-color: rgb(0, 0, 0);
+}
